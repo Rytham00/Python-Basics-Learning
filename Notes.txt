@@ -1,11 +1,11 @@
-While using the 'print' command, no apostrophe is required
+While using the 'print' command, no apostrophe is required.
 
-String: Words, sentences, paragraphs, etc. written in the program
+String: Words, sentences, paragraphs, etc. written in the program.
 Float: Decimals written in the program
 Int: Integers you write in the program
 
-A variable can be saved under another variable
-(" "), (' '), (''' ''') -> all three give the same output
+A variable can be saved under another variable.
+(" "), (' '), (''' ''') -> all three give the same output.
 
 Boolean: Variable is saved as True or False
 None: Means no value is stored under variable yet
