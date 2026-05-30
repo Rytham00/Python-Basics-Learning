@@ -1,0 +1,26 @@
+While using the 'print' command, no apostrophe is required
+
+String: Words, sentences, paragraphs, etc. written in the program
+Float: Decimals written in the program
+Int: Integers you write in the program
+
+A variable can be saved under another variable
+(" "), (' '), (''' ''') -> all three give the same output
+
+Boolean: Variable is saved as True or False
+None: Means no value is stored under variable yet
+Relational Operators: symbols (==, !=, >, <) used to determine the reationship between two values, always give answer in Boolean (i.e, as True or False)
+
+/n -> Creates a new line (NEWLINE)
+/t -> Creates a large space between two sentences (TAB)
+
+Concatenation: Taking two different strings and joining them as if they were a single one
+Positive Index: Counts left to right(0,1,2,...)
+Negative Index: Counts right to left (...,-3,-2,-1)
+
+If we search for a non-existant word/letter: output-> -1 (as it's non-existant)
+
+CONDITIONAL STATEMENTS
+if : There should be condition with it, can be used alone and as many times as one likes
+elif: Should have a conditon, can be used only after if has been used and as many times as one likes
+else: No condition required, happens when if and elif conditions are not met. Can only be used after "if".
